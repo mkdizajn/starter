@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-splash: "http://placehold.it/1600x500"
+splash: "http://placehold.it/800x350"
 title: Krex test 1
 tags: 
   - bananas
